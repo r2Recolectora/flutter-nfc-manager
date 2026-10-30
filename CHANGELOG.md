@@ -1,3 +1,7 @@
+## 4.2.1
+
+* Fixes crash when re-opening the app from background.
+
 ## 4.2.0
 
 * Add Swift Package Manager support.
